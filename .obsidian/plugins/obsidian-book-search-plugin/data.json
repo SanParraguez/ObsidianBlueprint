@@ -1,0 +1,20 @@
+{
+  "folder": "01 Library of Alexandria",
+  "fileNameFormat": "{{title}} - {{author}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "90 Babylonian Bureau/Treasury of Templates/Reading/book_template.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "apiKey": "",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": true,
+  "enableCoverImageSave": false,
+  "enableCoverImageEdgeCurl": true,
+  "coverImagePath": "01 Library of Alexandria/Hall of Scrolls/Cover Archives",
+  "askForLocale": true
+}
