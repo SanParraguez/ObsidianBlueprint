@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+Toggle Properties (snippet): Disable properties in read view, unless the cssClass 'show_properties' is addded.
+
 ### Changed
 
 ### Fixed
