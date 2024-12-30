@@ -1,2 +1,6 @@
 % PyCharm do not botter
 .idea/
+
+% Ignore some obsidian
+.obsidian/workspace.json
+.obsidian/appearance.json
