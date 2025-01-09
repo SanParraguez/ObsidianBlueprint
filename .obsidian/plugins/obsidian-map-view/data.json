@@ -24,12 +24,64 @@
       }
     },
     {
-      "ruleName": "Travel/Activity/Faith",
+      "ruleName": "#Travel/City",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "markerColor": "blue-dark"
+      }
+    },
+    {
+      "ruleName": "#Travel/Activity",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "markerColor": "violet"
+      }
+    },
+    {
+      "ruleName": "#Travel/Activity/Faith",
       "preset": false,
       "iconDetails": {
         "prefix": "fas",
         "icon": "fa-person-praying",
-        "markerColor": "yellow"
+        "markerColor": "violet"
+      }
+    },
+    {
+      "ruleName": "#Travel/Activity/Pool",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-water-ladder",
+        "markerColor": "violet"
+      }
+    },
+    {
+      "ruleName": "#Travel/Activity/Museum",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-museum",
+        "markerColor": "violet"
+      }
+    },
+    {
+      "ruleName": "#Travel/Activity/Park",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-tree",
+        "markerColor": "green"
+      }
+    },
+    {
+      "ruleName": "#Travel/Activity/Hiking",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "markerColor": "green",
+        "icon": "fa-person-hiking"
       }
     }
   ],
@@ -100,7 +152,7 @@
   "geoHelperCommand": "chrome",
   "geoHelperUrl": "https://esm7.github.io/obsidian-geo-helper/",
   "handleGeolinksInNotes": true,
-  "showGeolinkPreview": false,
+  "showGeolinkPreview": true,
   "zoomOnGeolinkPreview": 10,
   "routingUrl": "https://www.google.com/maps/dir/?api=1&origin={x0},{y0}&destination={x1},{y1}",
   "newNotePath": "02 Caravanserai of Petra/Chamber of Destinations",
